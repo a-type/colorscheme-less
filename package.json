@@ -41,8 +41,6 @@
   "dependencies": {
     "bluebird": "^2.9.27",
     "color-scheme": "0.0.5",
-    "lodash": "^3.9.3",
-    "phantom": "^0.7.2",
-    "zombie": "^4.0.10"
+    "lodash": "^3.9.3"
   }
 }
